@@ -1,0 +1,7 @@
+div {
+    font-size: 4rem;
+    background: linear-gradient(to left, rgb(0,0,212), rgb(224,0,1));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline;
+}
